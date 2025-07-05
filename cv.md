@@ -18,3 +18,31 @@ I worked at J. Kupala Grodno State University as a senior lecturer at the depart
 - JavaScript (Fundamentals)
 - Git, GitHub
 - Eclipse, VS Code
+
+## Code example
+
+This code does not execute properly. Try to figure out why.
+```
+function multiply(a, b){
+  a * b
+}
+```
+*Answer:*
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+
+## Education
+
++ **Janka Kupala Grodno State University**
+   
+   * faculty of Mathematics and Informatics (*researcher*), 2015
+   * Institute for advanced training and retraining of personnel (*software engineer*), 2011
+
++ **Course** *"Java Web Application Development"* from EPAM Systems Inc., 2016
+
+## Languages ##
+
+* **English level:** B1
